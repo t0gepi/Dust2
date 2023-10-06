@@ -1,5 +1,7 @@
 # Dust2-Map-for-KiddyBoxer-Cloud-Map
 
+![Preview of the Map](https://github.com/t0gepi/Dust2-Map-for-KiddyBoxer-Cloud-Map/blob/main/preview.png)
+
 ## How to install:
 
 1. Install Tampermonkey for your browser. For chrome you can do it [here](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
