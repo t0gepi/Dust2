@@ -54,5 +54,4 @@
         const mapCanvas = document.getElementById('map');
         mapCanvas.style.transform = `rotate(${rotationAngle}deg)`;
     });
-    //document.getElementById('map').style.height = 760;
 })();
