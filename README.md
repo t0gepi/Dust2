@@ -11,7 +11,7 @@
 ![Preview of the Map](https://github.com/t0gepi/Dust2-Map-for-KiddyBoxer-Cloud-Map/blob/main/guide1.png)
 5. Replace everything with what you copied and save ( Ctrl+S ).
 
-Now you should have 2 Extra buttons on the kiddyboxer radar. (Refresh the radar page if not).
+Now you should have 2 Extra buttons for rotating the kiddyboxer radar and changing the map to dust2. (Refresh the radar page if not).
 
 ## Important Information:
 
